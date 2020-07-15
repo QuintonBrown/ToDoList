@@ -35,7 +35,7 @@ export default class App extends React.Component {
       <div>
         <div className="header">
           <div className="wrapper">
-            <img src={logo} />
+            <img src={logo} alt="r2h logo" />
             <p className="title">Road 2 Hire</p>
           </div>
         </div>
