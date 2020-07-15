@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './r2hlogo.jpg';
 import './App.css';
 import List from './components/list'
 
